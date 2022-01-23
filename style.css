@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+body{
+  
+    font-family: "Roboto", sans-serif;
+     
+}
+.bebis{
+    font-family: "Bebas Neue", "cursive";
+  color: #363958;
+}
+.header{
+    background-color: #fff9f4;
+}
+.nav-link a{
+    font-family: "Bebas Neue", "cursive";
+    font-size: 22px;
+}
+.nike-font{
+    font-weight:"Roboto", sans-serif; ;
+}
+.nike-text{
+    color: #fa804c;
+}
+.buy-now{
+    border: 1px solid #fa804c;
+    padding: 8px;
+}
+.buy-now:hover{
+    background-color: #fa804c;
+    color: #fff9f4;
+}
